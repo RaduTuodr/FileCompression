@@ -1,0 +1,3 @@
+admin admin 1
+asd asd 0
+radu1 radu1 1 D:/inputFile.txt Compressed D:/inputFile2.txt Compressed D:/inputFile3.txt Compressed D:/inputFile.txt Compressed
